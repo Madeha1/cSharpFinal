@@ -1,0 +1,232 @@
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csprojAssemblyReference.cache
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csproj.GenerateResource.cache
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.AssemblyInfoInputs.cache
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.AssemblyInfo.cs
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csproj.CoreCompileInputs.cache
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.exe
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.deps.json
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.runtimeconfig.json
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.runtimeconfig.dev.json
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.pdb
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csproj.CopyComplete
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.dll
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.pdb
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.genruntimeconfig.cache
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.Admin.resources
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.LogIn.resources
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.customerForm.resources
+C:\Users\shahd madhoun\Downloads\cSharbProject-master\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.SignUp.resources
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csprojAssemblyReference.cache
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.Admin.resources
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.customerForm.resources
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.LogIn.resources
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.SignUp.resources
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csproj.GenerateResource.cache
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.AssemblyInfoInputs.cache
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.AssemblyInfo.cs
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csproj.CoreCompileInputs.cache
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.pdb
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.exe
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.deps.json
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.runtimeconfig.json
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.runtimeconfig.dev.json
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.pdb
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csproj.CopyComplete
+C:\Users\Superuser\Desktop\cSharbProject-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.genruntimeconfig.cache
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.exe
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.deps.json
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.runtimeconfig.json
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.runtimeconfig.dev.json
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.pdb
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csprojAssemblyReference.cache
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.Admin.resources
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.customerForm.resources
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.LogIn.resources
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.SignUp.resources
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csproj.GenerateResource.cache
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.AssemblyInfoInputs.cache
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.AssemblyInfo.cs
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csproj.CoreCompileInputs.cache
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csproj.CopyComplete
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.dll
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.pdb
+C:\Users\shahd madhoun\Desktop\c#\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.genruntimeconfig.cache
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.exe
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.deps.json
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.runtimeconfig.json
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.runtimeconfig.dev.json
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Part2 Project.pdb
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.Admin.resources
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.customerForm.resources
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.LogIn.resources
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2_Project.SignUp.resources
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.AssemblyInfo.cs
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.csproj.CopyComplete
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.dll
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.pdb
+C:\Users\Asus\Downloads\csharp-main\csharp-main\cSharbProject-main\Part2 Project\obj\Debug\netcoreapp3.1\Part2 Project.genruntimeconfig.cache
